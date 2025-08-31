@@ -73,14 +73,14 @@ const tharaka = {
 
 <div align="center">
   
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&langs_count=7&theme=radical"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Tharakax&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tharakax&layout=compact&langs_count=7&theme=radical"/>
 
 </div>
 
 <div align="center">
   
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Tharakax&theme=radical)
 
 </div>
 
@@ -138,7 +138,7 @@ My coding journey is inspired by anime characters who never give up:
 
 <div align="center">
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Tharakax&theme=tokyo-night&hide_border=true)
 
 </div>
 
@@ -163,7 +163,7 @@ My coding journey is inspired by anime characters who never give up:
 
 If you like my projects, consider giving them a ⭐!
 
-<img src="https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+<img src="https://github.com/Tharakax/Tharakax/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 
 </div>
 
@@ -173,7 +173,7 @@ If you like my projects, consider giving them a ⭐!
 
 ### 🌸 *"Code with passion, debug with patience, and always stay curious!"* 🌸
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=FF6B9D&style=flat" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=Tharakax&label=Profile%20views&color=FF6B9D&style=flat" alt="Profile views" />
 
 ---
 
